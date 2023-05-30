@@ -15,8 +15,8 @@ import NotFound  from './routes/NotFound';
 
 // import {auth,fs} from './routes/Config';
 // import Registration from './routes/Registration';
-import './routes/Home.css';
-import './routes/Registration.css';
+// import './routes/Home.css';
+
 // import { Auth0Provider } from '@auth0/auth0-react';
 
 
