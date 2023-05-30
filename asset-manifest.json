@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/ecoomerce/static/js/main.3ed5ed70.js",
+    "static/js/787.cab5bdb5.chunk.js": "/ecoomerce/static/js/787.cab5bdb5.chunk.js",
+    "static/media/slider-img.jpg": "/ecoomerce/static/media/slider-img.3501ca8bba995bafc115.jpg",
+    "static/media/blog-01.jpg": "/ecoomerce/static/media/blog-01.995255ac3c9127f7cdf8.jpg",
+    "static/media/blog-02.jpg": "/ecoomerce/static/media/blog-02.2664b4967f7873d2be34.jpg",
+    "static/media/headphone.png": "/ecoomerce/static/media/headphone.d4ac8b8dfa44c8ef025f.png",
+    "static/media/blog.jpg": "/ecoomerce/static/media/blog.544c68586ad579476422.jpg",
+    "static/media/woman-img.jpg": "/ecoomerce/static/media/woman-img.449c4e18444ff4d01946.jpg",
+    "static/media/img-2_2.png": "/ecoomerce/static/media/img-2_2.1fbeeee180637b22ed05.png",
+    "static/media/img-2.png": "/ecoomerce/static/media/img-2.dd21f875f322d1939aca.png",
+    "static/media/img-2_1.png": "/ecoomerce/static/media/img-2_1.baf1ec4ddce24d125800.png",
+    "static/media/bimgL.png": "/ecoomerce/static/media/bimgL.ff20be225aa652c29064.png",
+    "index.html": "/ecoomerce/index.html",
+    "main.3ed5ed70.js.map": "/ecoomerce/static/js/main.3ed5ed70.js.map",
+    "787.cab5bdb5.chunk.js.map": "/ecoomerce/static/js/787.cab5bdb5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.3ed5ed70.js"
+  ]
+}
